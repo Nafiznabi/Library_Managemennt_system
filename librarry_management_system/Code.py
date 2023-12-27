@@ -64,5 +64,4 @@ search_title = "Code Complete"
 print(f"\nSearch Results for '{search_title}':")
 print(library.search_by_title(search_title))
 
-# except ValueError as e:
-#     print(f"Error: {e}")
+
